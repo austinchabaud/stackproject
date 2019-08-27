@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'humanoid';
+	src: url('./HUMANOID.TTF') format('woff');
+}
+
+.App {
+	background-color: rgb(233, 232, 232);
+	font-family: 'humanoid';
+}

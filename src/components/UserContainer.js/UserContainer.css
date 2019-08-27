@@ -1,0 +1,19 @@
+.contain {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-self: center;
+	padding: 40px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 14px;
+	color: rgb(70, 37, 37);
+	margin-top: 20px;
+}
+
+.addG {
+	background: rgb(184, 184, 184);
+	border: 1px solid red;
+}
